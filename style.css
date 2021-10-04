@@ -66,3 +66,24 @@ th{
 .celeste{
     background-color: #38c5e9;
 }
+#ultimo-paragrafo{
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+.interessamenti{
+    color: gray;
+}
+.collegamento1{
+    margin-top: 2%;
+    color: white;
+    background-image: url(../html-css-booleaner/img/monitor.jpg);
+    width: 250px;
+    height: 250px;
+}
+.collegamento2{
+    margin-top: 2%;
+    color: white;
+    background-image: url(../html-css-booleaner/img/graph.jpg);
+    width: 250px;
+    height: 250px;
+}
