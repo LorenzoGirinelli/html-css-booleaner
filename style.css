@@ -36,3 +36,33 @@
 #immagini{
     margin-top: 2%;
 }
+#paragrafo{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#sottolineatura{
+    background-color: yellow;
+}
+
+.lista{
+    margin-left: 1%;
+    margin-bottom: 2%;
+}
+table{
+    border-collapse: collapse;
+    text-align: left;
+}
+thead{
+    background-color: #20a9e5;
+    color:white;
+    font-weight: bold;
+}
+.first-row{
+    width: 300px;
+}
+th{
+    font-size: 20px;
+}
+.celeste{
+    background-color: #38c5e9;
+}
