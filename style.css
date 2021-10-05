@@ -7,6 +7,7 @@
 .header{
     background-image: url(../html-css-booleaner/img/pattern.png);
     background-color: #4ea0ff;
+    background-size: 40%;
 }
 
 #logo{
@@ -24,13 +25,13 @@
     font-size: 50px;
 }
 
-#sigla{
+.sigla{
     font-size: 20px;
     font-weight: bold;
     color: gray;
 }
 
-#autore{
+.autore{
     color: #3eb4e8;
 }
 #immagini{
@@ -77,13 +78,15 @@ th{
     margin-top: 2%;
     color: white;
     background-image: url(../html-css-booleaner/img/monitor.jpg);
-    width: 250px;
+    width: 260px;
     height: 250px;
+    background-repeat: no-repeat;
 }
 .collegamento2{
     margin-top: 2%;
     color: white;
     background-image: url(../html-css-booleaner/img/graph.jpg);
-    width: 250px;
+    width: 260px;
     height: 250px;
+    background-repeat: no-repeat;
 }
